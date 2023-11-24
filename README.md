@@ -13,3 +13,10 @@ Welcome to the "Nike Landing Site" repository! Here, you'll discover a sophistic
 - **Responsive Design:** Experience a fully responsive landing site that adapts seamlessly to various devices and screen sizes, ensuring an optimal viewing experience.
 
 - **Tutorial Reference:** Dive into the project with the guidance of a comprehensive tutorial available on YouTube. You can access the tutorial [here](https://youtu.be/tS7upsfuxmo?si=ZxsBCajEcw29jAAr).
+
+## Get Started
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Launch the application with `npm run dev`.
